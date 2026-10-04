@@ -19,7 +19,7 @@ I turn raw data into dashboards and visualizations that people can use to make d
 
 ## Certificates
 
-- [Data Fundamentals](https://drive.google.com/file/d/16_KbSpAtxCLIA29XjuOBIQXifji1qasa/view?usp=drive_link)
+- [IBM Data Fundamentals](https://drive.google.com/file/d/16_KbSpAtxCLIA29XjuOBIQXifji1qasa/view?usp=drive_link)
 - [Excel Basics for Data Analysis](https://drive.google.com/file/d/1LOgNXysFukx79yS0na2Xo2QreRlPA1sX/view?usp=drive_link)
 - [Digital Egypt Pioneers Program (UI & UX Web Designer)](https://drive.google.com/file/d/1l54-lZ_OetRGM_cY8ETIjo0o8a4WyRQb/view?usp=drive_link)
 - [EU Grants and International Funding Opportunities workshop, Mansoura University](https://drive.google.com/file/d/10ukN3qZ1k77xbU-gOSyHKPG9aiXIt8n3/view?usp=drive_link)
